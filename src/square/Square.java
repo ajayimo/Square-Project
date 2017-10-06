@@ -16,6 +16,10 @@ public class Square {
         area = side*side;
         return area;
     }
+    public int Area(int height, int breath){
+        
+        return 0;
+    }
     /**
      * @param args the command line arguments
      */
