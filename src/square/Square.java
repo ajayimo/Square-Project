@@ -20,6 +20,11 @@ public class Square {
         
         return 0;
     }
+    
+      public int Area(){
+        
+        return 0;
+    }
     /**
      * @param args the command line arguments
      */
